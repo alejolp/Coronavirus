@@ -27,11 +27,13 @@
 - [ventilator](https://github.com/jcl5m1/ventilator): Low-Cost Open Source Ventilator or PAPR.
 - [ReesistenciaTeam](https://twitter.com/ReesistenciaT): Equipo de trabajo que ha diseñado los primeros respiradores autónomos Open, basados en el sistema Jackson Rees.
 - [Open Source Ventilator (OSV) Ireland](https://opensourceventilator.ie/): This project was initiated by the COVID-19 global pandemic as a result of a community discussion within a Facebook group called Open Source COVID-19 Medical Supplies (OSCMS).
+- [open-source-ventilator/OpenLung](https://gitlab.com/open-source-ventilator/OpenLung): An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component. An open collaboration with http://opensourceventilator.ie/
 - [MIT Emergency Ventilator (E-Vent) Project (MIT)](https://e-vent.mit.edu/): We have launched an emergency research project with a team of MIT Engineers and American clinicians to address the question: Is it possible to safely ventilate a COVID-19 patient by automatically actuating a manual resuscitator?
 
 # Notas sobre proyectos de respiradores existentes
 
-La mayoría busca basicamente tomar un [respirador de bolsa manual](https://en.wikipedia.org/wiki/Bag_valve_mask) y atomatizar el proceso de uso con electrónica adicional. 
+La mayoría busca tomar un [respirador de bolsa manual](https://en.wikipedia.org/wiki/Bag_valve_mask) y atomatizar el proceso de uso. 
 
+Lo más complejo de un respirador de bolsa manual es la válvula de tres vías, con nombre: "Duckbill valve three way".
 
 
