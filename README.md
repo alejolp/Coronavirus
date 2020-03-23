@@ -6,6 +6,7 @@
 
 - [COMUNICADO CORONAVIRUS COVID-19 - Cámara Argentina de Impresión 3D](https://www.camar3d.org/comunicado-coronavirus-covid-19/)
 - **UTN 3D FRLP**: SE NECESITAN MAS IMPRESORAS 3D para imprimir desde sus casas con modelos ya probados de soporte para mascarillas. Quien quiera participar, por favor reportarse a: liac.arroba.frlp.utn.edu.ar (Ing. Juan Arrospidei)
+- [Convocatoria RespirAr2020](https://twitter.com/RespirAr2020/status/1241410245345378307): Nuestro objetivo, desarrollo de un equipo de ventilación mecánica seguro #opensource, fácilmente replicable y de bajo costo.
 
 ## Inglés
 
