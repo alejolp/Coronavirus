@@ -2,8 +2,14 @@
 
 # Convocatorias
 
+## Español
+
 - [COMUNICADO CORONAVIRUS COVID-19 - Cámara Argentina de Impresión 3D](https://www.camar3d.org/comunicado-coronavirus-covid-19/)
 - **UTN 3D FRLP**: SE NECESITAN MAS IMPRESORAS 3D para imprimir desde sus casas con modelos ya probados de soporte para mascarillas. Quien quiera participar, por favor reportarse a: liac.arroba.frlp.utn.edu.ar (Ing. Juan Arrospidei)
+
+## Inglés
+
+- [Code vs COVID19](https://www.codevscovid19.org): hackaton de 72hs de COVID-19, Universidad de Zurich.
 
 # Noticias
 
