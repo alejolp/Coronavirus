@@ -36,6 +36,9 @@
 
 - [RespirAr2020](https://twitter.com/respirar2020): Un grupo interdisciplinario de profesionales trabajando para el desarrollo de un equipo de ventilación mecánica seguro, fácilmente replicable y de bajo costo.
 - [ReesistenciaTeam](https://twitter.com/ReesistenciaT): Equipo de trabajo que ha diseñado los primeros respiradores autónomos Open, basados en el sistema Jackson Rees.
+- [mascaras-3d-coronavirus-protocas3d](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d): Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs) https://www.protocas3d.com/
+
+
 
 **Inglés**
 
