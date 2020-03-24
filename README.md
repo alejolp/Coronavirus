@@ -18,7 +18,8 @@
 
 - [Dentro del movimiento ‘maker’ que desarrolla respiradores y máscaras ‘from scratch’ en España](https://hipertextual.com/2020/03/movimiento-maker-respiradores-mascaras-espana-covid)
 - [Son un grupo de jóvenes innovadores rosarinos y crearon un respirador artificial de bajo costo para combatir al coronavirus (Infobae)](https://www.infobae.com/sociedad/2020/03/22/son-un-grupo-de-jovenes-innovadores-rosarinos-y-crearon-un-respirador-artificial-de-bajo-costo-para-combatir-al-coronavirus/)
-- [Platenses se suman a la fabricación de máscaras de protección con impresoras 3D](https://www.0221.com.ar/nota/2020-3-23-14-22-0-la-plata-se-suma-a-la-fabricacion-de-mascaras-de-proteccion-con-impresoras-3d):
+- [Platenses se suman a la fabricación de máscaras de protección con impresoras 3D](https://www.0221.com.ar/nota/2020-3-23-14-22-0-la-plata-se-suma-a-la-fabricacion-de-mascaras-de-proteccion-con-impresoras-3d)
+- [Hospitales de la región capital pidieron a la UTN la fabricación de máscaras de bioseguridad](http://www.aninoticias.com/node/6262)
 
 ## Inglés
 
