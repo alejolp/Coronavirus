@@ -1,4 +1,4 @@
-# COVID-19 Corona Virus: noticias y proyectos, con foco de Argentina
+# COVID-19: Software y Hardware
 
 # Convocatorias
 
