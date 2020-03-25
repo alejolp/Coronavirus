@@ -24,6 +24,7 @@
 ## Inglés
 
 - [A startup 3D-printed emergency breathing valves for COVID-19 patients at an Italian hospital in less than 6 hours](https://www.businessinsider.com/coronavirus-italian-hospital-3d-printed-breathing-valves-covid-19-patients-2020-3)
+- [Italian hospital saves Covid-19 patients lives by 3D printing valves for reanimation devices](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/): The supply chain was broken, people and 3D printing rose to the occasion.
 
 # Proyectos existentes
 
@@ -35,11 +36,10 @@
 
 **Español**
 
+- [The Atomic Lab](https://twitter.com/theatomiclab): Somos un equipo que tiene ganas de inventar el mundo que viene. 🌍 Ya regalamos +1200 prótesis y vamos por más. ✋
 - [RespirAr2020](https://twitter.com/respirar2020): Un grupo interdisciplinario de profesionales trabajando para el desarrollo de un equipo de ventilación mecánica seguro, fácilmente replicable y de bajo costo.
 - [ReesistenciaTeam](https://twitter.com/ReesistenciaT): Equipo de trabajo que ha diseñado los primeros respiradores autónomos Open, basados en el sistema Jackson Rees.
 - [mascaras-3d-coronavirus-protocas3d](https://github.com/Vidasoft-app/mascaras-3d-coronavirus-protocas3d): Convertir máscara Snorkel a máscara de Equipo de Prevención Individual (EPIs) https://www.protocas3d.com/
-
-
 
 **Inglés**
 
@@ -47,6 +47,12 @@
 - [Open Source Ventilator (OSV) Ireland](https://opensourceventilator.ie/): This project was initiated by the COVID-19 global pandemic as a result of a community discussion within a Facebook group called Open Source COVID-19 Medical Supplies (OSCMS).
 - [open-source-ventilator/OpenLung](https://gitlab.com/open-source-ventilator/OpenLung): An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component. An open collaboration with http://opensourceventilator.ie/
 - [MIT Emergency Ventilator (E-Vent) Project (MIT)](https://e-vent.mit.edu/): We have launched an emergency research project with a team of MIT Engineers and American clinicians to address the question: Is it possible to safely ventilate a COVID-19 patient by automatically actuating a manual resuscitator?
+
+# Tecnología de respiradores
+
+- [Bag valve mask](https://en.wikipedia.org/wiki/Bag_valve_mask)
+- [Duckbill valve](https://en.wikipedia.org/wiki/Duckbill_valve)
+- [Venturi effect](https://en.wikipedia.org/wiki/Venturi_effect)
 
 # Notas sobre proyectos de respiradores existentes
 
