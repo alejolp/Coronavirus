@@ -30,7 +30,8 @@
 
 ## Software
 
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): EXTENSA lista de proyectos mayoritariamente de Software para seguimiento de COVID-19
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): EXTENSA lista de proyectos mayoritariamente de Software para seguimiento de COVID-19
+- [WeileiZeng/Open-Source-COVID-19](https://github.com/WeileiZeng/Open-Source-COVID-19): A global collection of Open Source projects during COVID-19 http://open-source-covid-19.weileizeng.com/
 
 ## Hardware
 
