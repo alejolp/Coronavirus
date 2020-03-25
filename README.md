@@ -25,6 +25,7 @@
 
 - [A startup 3D-printed emergency breathing valves for COVID-19 patients at an Italian hospital in less than 6 hours](https://www.businessinsider.com/coronavirus-italian-hospital-3d-printed-breathing-valves-covid-19-patients-2020-3)
 - [Italian hospital saves Covid-19 patients lives by 3D printing valves for reanimation devices](https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/): The supply chain was broken, people and 3D printing rose to the occasion.
+- [Stanford researchers confirm N95 masks can be sterilized and reused with virtually no loss of filtration efficiency by leaving in oven for 30 mins at 70C / 158F](https://www.reddit.com/r/COVID19/comments/fo0rpe/stanford_researchers_confirm_n95_masks_can_be/)
 
 # Proyectos existentes
 
